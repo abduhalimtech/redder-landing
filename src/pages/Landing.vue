@@ -278,12 +278,12 @@
           >
             <div class="flex flex-row items-start justify-start gap-[12px]">
               <div class="relative font-medium inline-block min-w-[26px]">
-                2021
+                2024
               </div>
               <div
                 class="relative font-medium font-montserrat inline-block min-w-[98px]"
               >
-                Company name
+                Redder.uz
               </div>
             </div>
             <div
