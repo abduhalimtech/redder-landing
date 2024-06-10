@@ -22,7 +22,7 @@ router.beforeEach((toRoute, _, next) => {
   const metaTitle = toRoute?.meta?.title;
   const metaDesc = toRoute?.meta?.description;
 
-  window.document.title = metaTitle || "locofy-vue-project";
+  window.document.title = metaTitle || "Redder.uz";
   if (metaDesc) {
     addMetaTag(metaDesc);
   }
