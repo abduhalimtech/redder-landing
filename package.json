@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "vite",
-    "build": "vite build",
+    "build": "vite build && cp -r ../.well-known dist/",
     "preview": "vite preview"
   },
   "dependencies": {
